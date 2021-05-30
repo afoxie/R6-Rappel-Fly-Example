@@ -4,7 +4,7 @@
  Rainbow Six rappel fly internal example
 ## Usage
  1. Download a copy of the DLL [here](https://github.com/afoxie/FSWatch/releases/)
- 2. Download a DLL injector if you don't have one. ((I recommend this one)[https://github.com/master131/ExtremeInjector/releases/])
+ 2. Download a DLL injector if you don't have one. (([I recommend this one](https://github.com/master131/ExtremeInjector/releases/))
  3. Start Rainbow Six without BattlEye enabled (`RainbowSix.exe /belaunch -be`)
  4. Choose `RainbowSix.exe` as a process in your injector and inject the DLL
  5. Use the keybinds below to navigate (you might need to manually rappel on some maps)
