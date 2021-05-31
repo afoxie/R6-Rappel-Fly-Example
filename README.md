@@ -3,7 +3,7 @@
 # R6-RappelFly-Example
  Rainbow Six rappel fly internal example
 ## Video
-[![](https://i9.ytimg.com/vi/PG8wLCEaq-c/mq2.jpg?sqp=CNjo0YUG&rs=AOn4CLBCk39Vp7kWmJZHok1-swM9ccpqkw)](https://www.youtube.com/watch?v=PG8wLCEaq-c)
+[![](https://img.youtube.com/vi/PG8wLCEaq-c/0.jpg)](https://www.youtube.com/watch?v=PG8wLCEaq-c)
 ## Usage
  1. Download a copy of the DLL [here](https://github.com/afoxie/R6-Rappel-Fly-Example/releases/)
  2. Download a DLL injector if you don't have one. (([I recommend this one](https://github.com/master131/ExtremeInjector/releases/))
